@@ -1,0 +1,19 @@
+#first{
+    width: 150px;
+    height: 300px;
+}
+#second{
+    width: 150px;
+    height: 170px;
+}
+#third {
+    width: 150px;
+    height: 200px;
+}
+#fourth{
+    width: 120px;
+    height: 250px;
+}
+input{
+    display:inline-block;
+}
